@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# DotNet artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET temporary files
+App_Data/
+BundleConfig.cache
+
+# Environment files
+*.env
+
+# Others
+*.dbmdl
+*.jfm
+
+# Rider
+.idea/
+*.iml
